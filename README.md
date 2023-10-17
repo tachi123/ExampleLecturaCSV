@@ -1,6 +1,6 @@
 # Ejemplo de lectura de archivo CSV y generación de un objeto
 
-*Fue desarrollado durante la cursada en colaboración que los alumnos que solicitaron saber cómo estaba estructurado el CSV y como deberían comenzar con el Parseo.*
+*Fue desarrollado durante el dictado de un curso de JAVA en colaboración que los alumnos que solicitaron saber cómo estaba estructurado el CSV y como deberían comenzar con el Parseo.*
 
 En el Main de este proyecto van a ver una forma de "parsear" la ruta de un archivo .CSV que se ingrese por argumento en la ejecucción del programa
 
